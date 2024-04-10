@@ -1,0 +1,3 @@
+# Machine Learning using MALDI-TOF MS
+- All research was done with Python 3.11.3. The working directory should be in the `/code` directory. If files referenced in the code are not already in the repository, then they will be automatically generated as the Python scripts are run.
+- The dataset is available at https://www.kaggle.com/datasets/drscarlat/driams. The DRIAMS-A -D directories should be placed in the `/data/antibiotics` directory.
